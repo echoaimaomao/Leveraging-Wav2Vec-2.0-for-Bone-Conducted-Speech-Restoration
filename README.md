@@ -11,8 +11,7 @@ The source code will be publicly released upon paper acceptance to comply with d
 ## Supplemental Materials
 Enhanced demonstration samples are available in Demo:  
 **Demo Contents**:  
-1. enhanced folder: selected enhanced wav files by our model (specifically the Mandarin-Mainland model) 
-2. origin folder: corresponding wav files in ABC dataset
-*(The wav file in origin folder is dual-channel, consisting of bone-conducted speech and air-conducted speech)*
-
+1. enhanced folder: the selected enhanced wav files by our model (specifically the Mandarin-Mainland model) 
+2. origin folder: the corresponding wav files in ABC dataset
+*(The WAV files in the origin folder are dual-channel, with the two channels corresponding to bone-conducted speech and air-conducted speech.)*
 ## Citation Protocol
