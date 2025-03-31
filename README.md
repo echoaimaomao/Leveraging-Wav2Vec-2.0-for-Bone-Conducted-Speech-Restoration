@@ -9,12 +9,10 @@
 The source code will be publicly released upon paper acceptance to comply with double-blind review requirements.
 
 ## Supplemental Materials
-Voice demonstration samples are available through:  
-🔊 [Demo Portal](URL) | 🗂️ [Zenodo Archive](DOI link)  
-
+Enhanced demonstration samples are available in Demo:  
 **Demo Contents**:  
-1. Sample 1: [Brief description].wav  
-2. Sample 2: [Brief description].mp3  
-*(All audio files are 44.1kHz/16bit PCM format)*
+1. enhanced folder: selected enhanced wav files by our model (specifically the Mandarin-Mainland model) 
+2. origin folder: corresponding wav files in ABC dataset
+*(The wav file in origin folder is dual-channel, consisting of bone-conducted speech and air-conducted speech)*
 
 ## Citation Protocol
